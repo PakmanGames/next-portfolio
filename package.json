@@ -34,7 +34,7 @@
     "@tailwindcss/postcss": "^4.1.10",
     "eslint": "^9",
     "eslint-config-next": "^16.0.3",
-    "next": "^15.5.22",
+    "next": "^15.5.24",
     "postcss": ">=8.5.23",
     "tailwindcss": "^4.1.10"
   },
@@ -51,7 +51,7 @@
       "brace-expansion": ">=5.0.9",
       "postcss": ">=8.5.23",
       "fast-uri": ">=3.1.6 <4",
-      "js-yaml": ">=4.3.1 <5",
+      "js-yaml": ">=4.3.2 <5",
       "sharp": ">=0.35.4",
       "@babel/plugin-transform-modules-systemjs": ">=7.29.4",
       "browserslist": ">=4.28.7 <5"
